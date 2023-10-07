@@ -1,0 +1,16 @@
+{
+    "editor.fontFamily": "'Cascadia Code PL'",
+    "editor.codeLensFontFamily": "'Cascadia Code PL'",
+    "editor.inlayHints.fontFamily": "'Cascadia Code PL'",
+    
+    "prettier.singleQuote": true,
+    "editor.guides.bracketPairs": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "editor.autoClosingBrackets": "languageDefined",
+    "prettier.bracketSpacing": true,
+    
+
+    
+  }
+  
